@@ -35,6 +35,7 @@ local.properties
 npm-debug.log
 yarn-error.log
 
+android/app/google-services.json
 # BUCK
 buck-out/
 \.buckd/

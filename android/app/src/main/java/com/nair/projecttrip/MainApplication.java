@@ -53,7 +53,8 @@ public class MainApplication extends Application implements ReactApplication {
         new RNFirebaseNotificationsPackage(),
         new RNFirebasePerformancePackage(),
         new RNFirebaseRemoteConfigPackage(),
-        new RNFirebaseStoragePackage()
+        new RNFirebaseStoragePackage(),
+        new FacebookLoginPackage()
       );
     }
     
