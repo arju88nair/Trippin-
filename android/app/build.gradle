@@ -147,6 +147,9 @@ android {
 }
 
 dependencies {
+    compile(project(':react-native-firebase')) {
+        transitive = false
+    }
     compile project(':react-native-facebook-login')
     implementation(project(':react-native-firebase')) {
         transitive = false
