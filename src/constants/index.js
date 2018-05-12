@@ -1,1 +1,1 @@
-export const fbLoginPermissions = ['email', 'user_friends'];
+export const fbLoginPermissions = ['email'];

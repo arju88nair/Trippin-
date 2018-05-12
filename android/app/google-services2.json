@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "654078063213",
+    "firebase_url": "https://projecttrip-201615.firebaseio.com",
+    "project_id": "projecttrip-201615",
+    "storage_bucket": "projecttrip-201615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654078063213:android:4b89f9ca6b9c6046",
+        "android_client_info": {
+          "package_name": "com.nair.projecttrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654078063213-q673h1fro1hiij8l25033gsjm6kban5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nair.projecttrip",
+            "certificate_hash": "44f4db0f5abc0af6dcd16a8bd020f36fa92cdf17"
+          }
+        },
+        {
+          "client_id": "654078063213-j5172l9imlmt195gdj9m25bli519p4h8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654078063213-fnnt0fvmj19mji1dobubqi3hsdlt92gf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654078063213-7ha8elrfjmsjuhos2ktlenk2qgbl9rup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmijXDnB-uc0qh2l6aXv9m3VV9hbWdXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654078063213-j5172l9imlmt195gdj9m25bli519p4h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654078063213:android:4bddc7be9307b2ec",
+        "android_client_info": {
+          "package_name": "com.projecttrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654078063213-hinnrbcsqtefsnmo6r8ibmni5igcp7s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projecttrip",
+            "certificate_hash": "44f4db0f5abc0af6dcd16a8bd020f36fa92cdf17"
+          }
+        },
+        {
+          "client_id": "654078063213-j5172l9imlmt195gdj9m25bli519p4h8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654078063213-fnnt0fvmj19mji1dobubqi3hsdlt92gf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "654078063213-7ha8elrfjmsjuhos2ktlenk2qgbl9rup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmijXDnB-uc0qh2l6aXv9m3VV9hbWdXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654078063213-j5172l9imlmt195gdj9m25bli519p4h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
