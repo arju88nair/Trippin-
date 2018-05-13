@@ -7,6 +7,7 @@ export const handleFbLogin = () => (
     .then((token) => {
       firebase.auth()
         .signInWithCredential(firebase.auth.FacebookAuthProvider.credential(token))
+
     })
     .catch((err) => this.onError && this.onError(err))
 );
