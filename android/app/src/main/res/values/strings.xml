@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">ProjectTrip</string>
-    <string name="fb_app_id">568089886899940</string>
-    <string name="fb_login_protocol_scheme">568089886899940
-    </string>
+    <string name="fb_app_id">208894729896663</string>
+    <string name="fb_login_protocol_scheme">208894729896663</string>
 </resources>
