@@ -1,3 +1,5 @@
+import React, { Component } from 'react';
+
 export default class HomeScreen extends React.Component {
     static navigationOptions = {
         title: 'Welcome to the app!',
@@ -12,9 +14,6 @@ export default class HomeScreen extends React.Component {
         );
     }
 
-    _showMoreApp = () => {
-        this.props.navigation.navigate('Other');
-    };
 
     _signOutAsync = async () => {
         await AsyncStorage.clear();

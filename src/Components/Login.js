@@ -12,7 +12,7 @@ import {
     Button
 } from 'react-native';
 
-import { handleFbLogin } from './lib/auth';
+import { handleFbLogin } from '../lib/auth';
 
 export default class Login extends Component<{}> {
     render() {
