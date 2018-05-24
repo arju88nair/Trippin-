@@ -5,18 +5,19 @@
  */
 
 import React, { Component } from 'react';
-import {
-    StyleSheet,
-    Text,
-    View,
-    Button
-} from 'react-native';
-
-import { fbLoginPermissions } from '../../constants/index';
-import firebase from '../../config/firebase';
-import Auth from '../../config/auth';
-import Homescreen from '../../Components/Homescreen'
+// import { fbLoginPermissions } from '../../constants/index';
+// import firebase from '../../config/firebase';
+// import Auth from '../../config/auth';
+import Homescreen from './Homescreen'
 import { SwitchNavigator } from 'react-navigation';
+import {
+    ActivityIndicator,
+    AsyncStorage,
+    Button,
+    StatusBar,
+    StyleSheet,
+    View,
+} from 'react-native';
 
 export default class Login extends Component<{}> {
     render() {

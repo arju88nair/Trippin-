@@ -1,4 +1,8 @@
-
+import { fbLoginPermissions } from '../../constants/index';
+import firebase from '../../config/firebase';
+import Auth from '../../config/auth';
+import Homescreen from '../../Components/Homescreen'
+import { SwitchNavigator } from 'react-navigation';
 
 
 export const handleFbLogin = () => (
