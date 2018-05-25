@@ -25,7 +25,7 @@ export default class Login extends Component<{}> {
             <View style={styles.container}>
                 <Button
                     onPress={this._handleFbLogin}
-                    title="Sign in with facebook"
+                    title="Blah"
                     color="#3c50e8"
                 />
             </View>
