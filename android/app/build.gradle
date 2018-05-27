@@ -102,7 +102,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "com.nair.projecttrip"
+        applicationId "com.nair.trippin"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

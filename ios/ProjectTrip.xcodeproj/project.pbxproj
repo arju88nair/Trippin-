@@ -1340,7 +1340,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nair.projecttrip;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nair.trippin;
 				PRODUCT_NAME = ProjectTrip;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1365,7 +1365,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nair.projecttrip;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nair.trippin;
 				PRODUCT_NAME = ProjectTrip;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

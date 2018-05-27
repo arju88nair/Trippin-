@@ -1,4 +1,4 @@
-package com.nair.projecttrip;
+package com.nair.trippin;
 
 import android.app.Application;
 
