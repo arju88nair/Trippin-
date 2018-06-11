@@ -3,10 +3,10 @@ import { GiftedChat } from "react-native-gifted-chat";
 import Chatkit from "@pusher/chatkit";
 
 const CHATKIT_TOKEN_PROVIDER_ENDPOINT =
-  "<url from TEST TOKEN PROVIDER section>";
-const CHATKIT_INSTANCE_LOCATOR = "<id from CREDENTIALS section>";
-const CHATKIT_ROOM_ID = "<room identifier from INSTANCE INSPECTOR section>";
-const CHATKIT_USER_NAME = "<user name>";
+    "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/23cee1e1-6ee4-4e65-ad86-47d38388889f/token";
+const CHATKIT_INSTANCE_LOCATOR = "v1:us1:23cee1e1-6ee4-4e65-ad86-47d38388889f";
+const CHATKIT_ROOM_ID = 9228152;
+const CHATKIT_USER_NAME = "NAIR";
 
 export default class MyChat extends React.Component {
   state = {
